@@ -6,4 +6,4 @@ Lo de arriba si, pero esta linea es nueva.
 
 Es esto lo que cambio desde el branch?
 
-Esto l ocambio para saber que cona cambia y como camba o si cambia
+Esto l ocambio para saber que cona cambia y como cambia o si cambia algo.
